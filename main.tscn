@@ -1,6 +1,6 @@
 [gd_scene load_steps=5 format=3 uid="uid://cdhjtnu2g5p3r"]
 
-[ext_resource type="Texture2D" uid="uid://8c5ialpyh207" path="res://Blue.png" id="1_tg0w5"]
+[ext_resource type="Texture2D" uid="uid://vtcu8uselya7" path="res://Yellow.png" id="1_kjqc5"]
 [ext_resource type="Texture2D" uid="uid://d10p1hy4pfsas" path="res://Terrain (16x16).png" id="2_atmnw"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_7cdve"]
@@ -160,7 +160,7 @@ texture_filter = 4
 texture_repeat = 2
 position = Vector2(587, 319)
 scale = Vector2(19.3438, 10.9688)
-texture = ExtResource("1_tg0w5")
+texture = ExtResource("1_kjqc5")
 region_enabled = true
 region_rect = Rect2(-0.297974, 0, 64.298, 64)
 
